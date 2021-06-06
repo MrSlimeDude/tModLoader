@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "setup.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "decompile",
+      "workingDirectory": "C:\\Users\\zakbe\\source\\repos\\tModLoader"
+    }
+  }
+}
